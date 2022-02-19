@@ -1,0 +1,4 @@
+Name: Filichenok Alexander Vladimirovich
+Age: 32
+Pets: 1
+Desired salary: 500
