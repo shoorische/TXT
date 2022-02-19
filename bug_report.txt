@@ -1,1 +1,9 @@
-
+Project: project_name
+ID: 1
+Created Date: 19.02.2022
+Summary: There is no logo on the welcome page
+Status: Open
+Priority: Major
+Severity: minor
+Incident Type: Bug
+Description: If the administrator visits the welcome page, the logo disappears
